@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    
+    overflow: hidden;
+    margin: 0;
+}
+
+.no-gutters{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.route-view{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #0c0613;
+}
